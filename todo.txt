@@ -1,0 +1,26 @@
+Allow different sized images = create multiple textures and show them correctly.
+- http://www.opengl-tutorial.org/beginners-tutorials/tutorial-5-a-textured-cube/
+- http://what-when-how.com/opengl-programming-guide/multitexturing-texture-mapping-opengl-programming/
+
+Create datagram reader & create new textures on read & switch to the new ones.
+
+Create datagram sender application that reads foto's.
+
+
+Compression:
+- https://github.com/hglm/detex BPTC
+- https://github.com/GammaUNC/FasTC
+
+Wayland version:
+https://github.com/eyelash/tutorials/blob/master/wayland-egl.c
+- no decorators = title / close / maximize etc,
+- no nvidia support
+- EGLStreams under wayland may help in the future
+
+
+
+sudo apt-get install libglew-dev
+
+optional:
+sudo apt-get install libglfw3-dev
+

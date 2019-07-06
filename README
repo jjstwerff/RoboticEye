@@ -1,0 +1,10 @@
+Run with gcc:
+cd src
+make
+./render
+
+Build with clang:
+make cmake
+cd build
+./render
+
